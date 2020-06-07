@@ -3,6 +3,10 @@
 
 Here's the summer assignment 2020 ...
 Done by Avinandan Nag
+EAGLE Projects 
+Circuit 1 for Q1 (PCB)
+Circuit 2 for Q2 (PCB)
+Circuits.pdf contains pdf that contains links for tinkercad circuits...
 Some questions are done somewhat modified...
 In arduino circuits
 Q.2 instead of 3 digit 7 segment display i have used normal 16x2 LCD
